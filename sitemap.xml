@@ -37,6 +37,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://resume-job-seeker.github.io/job-seeker/index.html</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://resume-job-seeker.github.io/job-seeker/outplacement-services-employee-experience.html</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>monthly</changefreq>
